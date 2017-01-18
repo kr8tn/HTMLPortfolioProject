@@ -1,0 +1,100 @@
+/*main.css*/
+
+
+/*css reset*/
+html, body, div, h1, h2, h3, h4, p, ul, ol, li, div {
+  padding: 0;
+  border: 0;
+  margin: 0;
+  font: inherit;
+  font-size: 100%;
+}
+
+body {
+  background-color: #000000;
+}
+
+h1 {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: bold;
+  font-size:70px;
+  text-align: center;
+  color: white;
+
+
+}
+
+h2 {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 35px;
+  font-weight: lighter;
+  text-align: center;
+  color:white;
+}
+
+
+h3 {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: normal;
+  font-size: 20px;
+}
+
+
+
+.header {
+  background-color: #000000;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+
+}
+
+.tagline {
+  background-color: #777777;
+  color: white;
+  padding: 20px 0 20px 0;
+  text-align: center;
+}
+
+.skills {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-weight: normal;
+  background-color: #FFFFFF;
+  color: #000000;
+  padding: 20px 0 20px 0;
+  text-align: center;
+}
+
+.skills ul li {
+padding: 20px 0 20px 0;
+font-weight: bold;
+font-size: 16px;
+
+}
+.skills h3 {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.contact {
+background-color: #000000;
+font-family: "Helvetica Neue", Helvetica, sans-serif;
+font-weight:color: white;
+padding: 20px 0 20px 0;
+text-align: center;
+color: white;
+font-size: 16px;
+}
+
+.contact a {
+text-decoration: none;
+font-weight: bold;
+color: inherit;
+font-size: 30px;
+
+}
+
+.contact h3 {
+  font-weight: bold;
+  font-size: 35px:
+}
